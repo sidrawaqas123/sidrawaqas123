@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sidra ali khan</h1>
 <h3 align="center">A passionate frontend developer from karachi</h3>
-<img align="right" width="400px" src="https://iconscout.com/lottie-animation/young-girl-check-network-security-6955704"
+<img align="right" width="400px" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/young-girl-check-network-security-6955704-5752611.mp4?h=700">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrawaqas123&label=Profile%20views&color=0e75b6&style=flat" alt="sidrawaqas123" /> </p>
 
